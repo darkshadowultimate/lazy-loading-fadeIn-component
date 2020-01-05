@@ -1,3 +1,9 @@
-.lazy-load-component {
-    padding: 50px 0;
+.lazy-load-component--not-loaded {
+  height: 100vh;
 }
+.lazy-load-component--not-loaded:first-of-type {
+  height: 110vh;
+}
+/* .lazy-load-component--loaded {
+  height: unset;
+} */
