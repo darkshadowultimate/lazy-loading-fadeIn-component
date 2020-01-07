@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lazy-loading-fadeIn-component/precache-manifest.4be87f0fb3f0630450357d786834f465.js"
+  "/lazy-loading-fadeIn-component/precache-manifest.f88e2bc0005cb649f359bdd2c148af4c.js"
 );
 
 self.addEventListener('message', (event) => {

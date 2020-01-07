@@ -1,0 +1,2 @@
+(window.webpackJsonpexample=window.webpackJsonpexample||[]).push([[5],{17:function(e,n,o){"use strict";o.r(n);var t=o(0),a=o.n(t);n.default=function(e){return a.a.createElement("div",{id:"component6",className:"component"},"This is component 6")}}}]);
+//# sourceMappingURL=5.b6df7b2d.chunk.js.map

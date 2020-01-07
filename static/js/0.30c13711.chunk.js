@@ -1,0 +1,2 @@
+(window.webpackJsonpexample=window.webpackJsonpexample||[]).push([[0],{12:function(e,n,o){"use strict";o.r(n);var t=o(0),a=o.n(t);n.default=Object(t.memo)(function(){return a.a.createElement("div",{id:"component1",className:"component lazy-load-component"},"This is component 1")})}}]);
+//# sourceMappingURL=0.30c13711.chunk.js.map
